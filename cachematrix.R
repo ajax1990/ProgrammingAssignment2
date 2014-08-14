@@ -1,4 +1,4 @@
-## Function i design get special matrix object at early time
+## Function i design get special matrix object at earliest time
 
 makeCacheMatrix <- function(x = matrix()) {
 ## Initialize the inverse property
@@ -62,3 +62,5 @@ cacheSolve <- function(x, ...) {
     y
    
 }
+
+## Thank you for taking time to evaluate me
